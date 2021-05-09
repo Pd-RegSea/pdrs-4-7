@@ -11,6 +11,8 @@
 -PaddleSeg
 -ocrnet_output
 -README.md
+-LICENSE
+-.gitattributes
 -requirements.txt
 ```
 ## 使用方式
