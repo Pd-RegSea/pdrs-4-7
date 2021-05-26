@@ -9,12 +9,15 @@
 ```
 -1911200.ipynb
 -PaddleSeg
--ocrnet_output
 -README.md
 -LICENSE
--.gitattributes
 -requirements.txt
 ```
+
+## 模型参数
+
+由于参数文件交大，不方便上传且占用LFS空间，可移步AI Studio查看。
+
 ## 使用方式
 
 在AI Studio上[运行本项目](https://aistudio.baidu.com/aistudio/projectdetail/1911200)
